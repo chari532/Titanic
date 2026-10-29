@@ -12,11 +12,5 @@ This project demonstrates a Python script for basic data preprocessing and explo
 * **Feature Encoding:** Maps categorical values in the `Sex` column to numerical values (`male: 0`, `female: 1`).
 * **Data Visualization:** Generates a histogram detailing the **Age Distribution** of the passengers using Seaborn and Matplotlib.
 
-## Dependencies
-Ensure you have the following libraries installed:
-```bash
-pip install pandas numpy seaborn matplotlib scikit-learn
-```
-
 ## Code Execution
 The workflow utilizes `pandas`, `numpy`, `seaborn`, and `matplotlib` to clean the dataset and output a stylized distribution plot.
